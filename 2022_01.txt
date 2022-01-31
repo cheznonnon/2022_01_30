@@ -21,6 +21,10 @@ BUGFIX
 		resource file : release date
 			OLD : 2021 : inaccurate
 			NEW : 2022
+	win32/win_txtbox.c
+		shift selecting
+			OLD : not redrawn in some cases
+			NEW : fixed
 
 
 NEW_FEATURE
