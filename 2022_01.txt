@@ -12,6 +12,29 @@
 Change Log
 
 
+2022/01/30 #2 : 2022/02/01
+
+
+BUGFIX
+
+
+	project/rc.rc
+		release segment
+			OLD : #0
+			NEW : #2
+			[!] : I've forgot to set "1"
+
+	All
+		VC++ : warning : some applications
+			NEW : done
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/01/30 #1 : 2022/01/31
 
 
