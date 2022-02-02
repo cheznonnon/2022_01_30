@@ -12,6 +12,35 @@
 Change Log
 
 
+2022/01/30 #3 : 2022/02/02
+
+
+BUGFIX
+
+
+	All
+		VC++ : warning : all
+			NEW : done
+	OrangeCat
+		source code
+			OLD : n_bool is used for double
+			NEW : fixed
+
+
+NEW_FEATURE
+
+
+	win32/win_button.c
+		selected frame size
+			NEW : thicker than older
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/01/30 #2 : 2022/02/01
 
 
