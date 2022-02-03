@@ -12,6 +12,31 @@
 Change Log
 
 
+2022/01/30 #4 : 2022/02/03
+
+
+BUGFIX
+
+
+	win32/win/stdsize.c
+		n_win_stdsize() : high-DPI
+			NEW : more margins are added
+	win32/win_button.c
+		when hovered : border : defaulted
+			OLD : not defaulted border
+			NEW : fixed
+	win32/win_txtbox.c
+		IME composition window : position
+			OLD : inaccurate
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/01/30 #3 : 2022/02/02
 
 
