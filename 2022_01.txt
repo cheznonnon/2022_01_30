@@ -12,6 +12,24 @@
 Change Log
 
 
+2022/01/30 #5 : 2022/02/04
+
+
+BUGFIX
+
+
+	win32/win_txtbox.c
+		IME On/Off
+			OLD : round corner will be black
+			NEW : fixed
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2022/01/30 #4 : 2022/02/03
 
 
